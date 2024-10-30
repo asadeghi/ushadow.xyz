@@ -508,9 +508,6 @@ video {
 .inset-2 {
   inset: 0.5rem;
 }
-.bottom-0 {
-  bottom: 0px;
-}
 .flex {
   display: flex;
 }
